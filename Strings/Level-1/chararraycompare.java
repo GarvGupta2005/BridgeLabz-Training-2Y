@@ -1,4 +1,4 @@
-package Assignment_5.lvl1;
+
 import java.util.Scanner;
 
 public class chararraycompare {
