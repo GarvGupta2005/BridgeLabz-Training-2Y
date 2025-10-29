@@ -9,9 +9,9 @@ public class MainQ1 {
         System.out.println("=== Question 1: User-Defined Packages ===");
         
         // Creating and using Student object
-        Student student = new Student("Akshit Jaiswal", 101);
+        Student student = new Student("Garv Gupta", 101);
         System.out.println("Student Details:");
-        student.displayStudentDetails();
+        student.displayStudentDetails();re
         
         System.out.println();
         
